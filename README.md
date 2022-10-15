@@ -1,14 +1,37 @@
-# sorgubot
 
-# Sheky sağolsun kime sorsam altyapım herkese yayılmış.
+# Tsadis Sorgu Bot
 
-# Yapacak bir şey yok en azından üzerinden para kazanılmasını engelleyelim.
 
-# Kullanım:
-# Node.js indirip kurun ardından 62m datayı data.db adında botun klasörüne atın
-# config.js'ye kendi idnizi ve discord.com/developers/applications 'tan oluşturduğunuz bot tokenini girin
-# klasöre shift+sağ tık yaparak klasörde komut istemcisi yada powershell çalıştırın
-# sırayla komutları girin:
 
-# npm i
-# node index.js
+
+## Bu Nedir?
+
+Botu ilk yaptığımda fazla etkileşim alıp ardından başıma bela açan bottur. Hiçbir sorumluluk almıyorum.
+## Botu Çalıştırın
+
+Projeyi indirin,
+
+Proje dizinine gidin,
+
+Klasöre Shift+Sağtık yaparak powershelli açın,
+
+Gerekli paketleri yükleyin
+
+```bash
+  npm install
+```
+
+Botu çalıştırın
+
+```bash
+  node index.js
+```
+
+  
+## Destek
+
+Destek için discorddan veya instagram üzerinden iletişime geçebilirsiniz: 
+tsadis#0695 / @tsadis0
+## Teşekkürler
+
+Botun altyapısını çalıp satan Sheky'e ve botu alıp sunucusunda parayla üyeliğini satan herkese teşekkür ederim.

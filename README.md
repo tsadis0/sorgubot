@@ -1,12 +1,6 @@
 
 # Tsadis Sorgu Bot
 
-
-
-
-## Bu Nedir?
-
-Botu ilk yaptığımda fazla etkileşim alıp ardından başıma bela açan bottur. Hiçbir sorumluluk almıyorum.
 ## Botu Çalıştırın
 
 Projeyi indirin,
